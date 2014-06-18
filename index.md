@@ -57,17 +57,6 @@ You can select the subject's age group and alcohol consumption group from a drop
 
 --- .class #id 
 
-## Oesophageal Cancer Risk Predictions
-
-The Oesophageal Cancer Risk Prediction for the selected age group, alcohol and tobacco consumption group is shown on the screen as follows (in the red circle) :
-
-<div style='text-align: center;'>
-    <img height='450' src='./assets/img/predict.png' />
-</div>
-
-
---- .class #id 
-
 ## Conclusion
 
 If this brief introduction has piqued your interest, feel free to have a peek at the actual application at the following URL:
